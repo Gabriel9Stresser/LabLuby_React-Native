@@ -2,18 +2,15 @@
 
 Desfio proposto pelo programa de estágio Labluby, muito obrigado pela oportunidade de aprender mais sobre rotas!
 
-#Vídeo
+# Vídeo
 <!-- YOUTUBE:START -->
 https://user-images.githubusercontent.com/65667183/109299079-4b6bcd80-7813-11eb-8940-a011556b804f.mp4
 <!-- YOUTUBE:END-->
 
-#Prints
+# Prints
 
 ![1](https://user-images.githubusercontent.com/65667183/109389862-25b2f700-78ed-11eb-99b1-51c0c4888cf9.png)
 ![2](https://user-images.githubusercontent.com/65667183/109389863-26e42400-78ed-11eb-96f5-07cd70d0f98b.png)
-
-
-![Teste LabLuby](https://user-images.githubusercontent.com/65667183/109294658-3ccde800-780c-11eb-8dfb-bbbfc41a4e61.PNG)
 
 ## 🧪 Technologies
 
